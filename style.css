@@ -356,7 +356,7 @@ span{
     height: 800px;
 }
 
-.vids .video video{
+.vids .video iframe{
     max-width: 100%;
     width: 800px;
     height: 550px;
